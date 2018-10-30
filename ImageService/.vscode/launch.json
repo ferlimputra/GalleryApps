@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ImageServiceApplication<ImageService>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.medium.microservice.training.ImageService.ImageServiceApplication",
+            "projectName": "ImageService",
+            "args": ""
+        }
+    ]
+}

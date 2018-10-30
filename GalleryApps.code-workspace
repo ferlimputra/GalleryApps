@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "ServiceRegistry"
+		},
+		{
+			"path": "ImageService"
+		},
+		{
+			"path": "GalleryService"
+		},
+		{
+			"path": "Gateway"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}

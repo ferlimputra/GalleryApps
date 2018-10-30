@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-GatewayApplication<Gateway>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.medium.microservice.training.Gateway.GatewayApplication",
+            "projectName": "Gateway",
+            "args": ""
+        }
+    ]
+}
